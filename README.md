@@ -1,2 +1,2 @@
 # DesignPatterns
-设计模式教程
+学习设计模式
