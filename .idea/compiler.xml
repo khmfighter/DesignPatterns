@@ -6,11 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="DesignPatterns" />
+        <module name="zy-demo-design-2-02" />
+        <module name="zy-demo-design-1-02" />
+        <module name="zy-demo-design-1-01" />
+        <module name="zy-demo-design-2-00" />
+        <module name="zy-demo-design-2-01" />
+      </profile>
+      <profile name="Annotation profile for DesignPatterns" enabled="true">
+        <sourceOutputDir name="../zy-demo-design-1-01/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../zy-demo-design-1-01/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zy-demo-design-1-00" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="DesignPatterns" target="1.7" />
+      <module name="itstack-demo-design-1-02" target="1.7" />
+      <module name="zy-demo-design-1-00" target="1.7" />
+      <module name="zy-demo-design-1-01" target="1.7" />
+      <module name="zy-demo-design-1-02" target="1.7" />
+      <module name="zy-demo-design-2-00" target="1.7" />
+      <module name="zy-demo-design-2-01" target="1.7" />
+      <module name="zy-demo-design-2-02" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

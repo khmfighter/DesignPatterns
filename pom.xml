@@ -8,18 +8,53 @@
     <artifactId>DesignPatterns</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>DesignPatterns</name>
+    <packaging>pom</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
         <netty-all.version>4.1.49.Final</netty-all.version>
     </properties>
+    <modules>
+        <module>zy-demo-design-1-00</module>
+        <module>zy-demo-design-1-01</module>
+        <module>zy-demo-design-1-02</module>
+        <module>zy-demo-design-2-00</module>
+        <module>zy-demo-design-2-01</module>
+        <module>zy-demo-design-2-02</module>
+    </modules>
     <dependencies>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.62</version>
+        </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.11</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.5</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>jcl-over-slf4j</artifactId>
+            <version>1.7.5</version>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>1.0.9</version>
+            <exclusions>
+                <exclusion>
+                    <artifactId>slf4j-api</artifactId>
+                    <groupId>org.slf4j</groupId>
+                </exclusion>
+            </exclusions>
         </dependency>
     </dependencies>
     <build>

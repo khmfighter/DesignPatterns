@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="zy-demo-design-1-01:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/zy_demo_design_1_01_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="zy-demo-design-1-01/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>

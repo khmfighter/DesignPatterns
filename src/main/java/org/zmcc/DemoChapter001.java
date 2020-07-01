@@ -1,4 +1,4 @@
-package org.zmcc.chapter001;
+package org.zmcc;
 
 import org.zmcc.chapter001.factory.Dialog;
 import org.zmcc.chapter001.factory.HtmlDialog;

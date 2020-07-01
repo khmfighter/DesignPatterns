@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zy-demo-design-1-00/zy-demo-design-1-00.iml" filepath="$PROJECT_DIR$/zy-demo-design-1-00/zy-demo-design-1-00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zy-demo-design-1-01/zy-demo-design-1-01.iml" filepath="$PROJECT_DIR$/zy-demo-design-1-01/zy-demo-design-1-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zy-demo-design-1-02/zy-demo-design-1-02.iml" filepath="$PROJECT_DIR$/zy-demo-design-1-02/zy-demo-design-1-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zy-demo-design-2-00/zy-demo-design-2-00.iml" filepath="$PROJECT_DIR$/zy-demo-design-2-00/zy-demo-design-2-00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zy-demo-design-2-01/zy-demo-design-2-01.iml" filepath="$PROJECT_DIR$/zy-demo-design-2-01/zy-demo-design-2-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zy-demo-design-2-02/zy-demo-design-2-02.iml" filepath="$PROJECT_DIR$/zy-demo-design-2-02/zy-demo-design-2-02.iml" />
     </modules>
   </component>
 </project>

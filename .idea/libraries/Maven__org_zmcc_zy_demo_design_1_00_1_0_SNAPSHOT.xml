@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.zmcc:zy-demo-design-1-00:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zy-demo-design-1-00/pom.xml!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/zy-demo-design-1-00/zy-demo-design-1-00-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/zy-demo-design-1-00/zy-demo-design-1-00-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

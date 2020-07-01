@@ -7,10 +7,23 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/zy-demo-design-1-01/pom.xml" />
+        <option value="$PROJECT_DIR$/zy-demo-design-1-00/pom.xml" />
+        <option value="$PROJECT_DIR$/zy-demo-design-1-02/pom.xml" />
+        <option value="$PROJECT_DIR$/zy-demo-design-2-00/pom.xml" />
+        <option value="$PROJECT_DIR$/zy-demo-design-2-01/pom.xml" />
+        <option value="$PROJECT_DIR$/zy-demo-design-2-02/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="DesignPatterns" />
+      </set>
+    </option>
   </component>
 </project>
