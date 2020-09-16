@@ -11,15 +11,10 @@
         <module name="zy-demo-design-2-00" />
         <module name="zy-demo-design-1-02" />
         <module name="zy-demo-design-1-01" />
+        <module name="zy-demo-design-1-00" />
         <module name="zy-demo-design-3-02" />
         <module name="zy-demo-design-3-01" />
         <module name="zy-demo-design-3-00" />
-      </profile>
-      <profile name="Annotation profile for DesignPatterns" enabled="true">
-        <sourceOutputDir name="../zy-demo-design-1-01/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../zy-demo-design-1-01/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="zy-demo-design-1-00" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
